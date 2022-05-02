@@ -1,5 +1,5 @@
-**2020-01-03**
-**watching-you-watch-the-tracking-ecosystem-of-over-the-top-tv-streaming-devices**
+**2020-01-03**  
+**watching-you-watch-the-tracking-ecosystem-of-over-the-top-tv-streaming-devices**  
 **2020-01-15**
 **practical-program-repair-via-bytecode-mutation**
 **2020-01-17**
